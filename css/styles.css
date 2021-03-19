@@ -8,9 +8,10 @@ padding: 35px;
 
 }
 h2{
-color: rgb(44, 204, 44);
+color: rgb(53, 67, 144);
 text-align: center;
-border: 2px dotted;
+border: 2px solid;
+border-color: black;
 margin: 6px;
 padding: 35px;
 }
@@ -19,14 +20,13 @@ ul{
   text-align: center;
 }
 
-img{
-  float: auto;
-  align-self:center;
-}
 div .row{
-  text-align:;
+  align-content:center;
 }
 
+img {
+  align-content: center;
+}
 
 div .box1{
 border-width: 4px;
@@ -40,9 +40,7 @@ border-width: 4px;
   text-align: center;
   color: blueviolet;
 }.
-/* .card{
-  float: inline-start;
-} */
+
 
 p .text{
   font-size: 25px;
@@ -54,4 +52,10 @@ p .text{
 }
 .about{
   color: blueviolet;
+}
+div .cardheader{
+  color: blue;
+}
+div{
+  border-color: blue;
 }
