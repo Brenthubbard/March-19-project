@@ -10,7 +10,7 @@ padding: 35px;
 h2{
 color: rgb(44, 204, 44);
 text-align: center;
-border: 2px solid;
+border: 2px dotted;
 margin: 6px;
 padding: 35px;
 }
@@ -38,14 +38,17 @@ border-width: 4px;
   float: center;
   background-color: lightcyan;
   text-align: center;
-}
-.card{
+  color: blueviolet;
+}.
+/* .card{
   float: inline-start;
-}
+} */
 
 #aboutme{
   font-size: 25px;
   color: blueviolet;
   
-
+}.head{
+  font-size: large;
+  color: blue;
 }
