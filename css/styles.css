@@ -15,17 +15,27 @@ border-color: black;
 margin: 6px;
 padding: 35px;
 }
-
+.cardheader{
+  color: blue;
+}
 ul{
   text-align: center;
+ 
 }
 
 div .row{
   align-content:center;
+
+}
+.head{
+  font-size: large;
+  color: blue;
+  text-align: center;
 }
 
 img {
-  align-content: center;
+ margin: ;
+  
 }
 
 div .box1{
@@ -40,22 +50,20 @@ border-width: 4px;
   text-align: center;
   color: blueviolet;
 }.
-
+ol .list-group {
+  text-align: center;
+}
 
 p .text{
   font-size: 25px;
   color: blueviolet;
-}
-.head{
-  font-size: large;
-  color: blue;
+  text-align: center;
 }
 .about{
   color: blueviolet;
+  text-align: center;
 }
-div .cardheader{
-  color: blue;
-}
-div{
-  border-color: blue;
+
+.card{
+align-items: center;
 }
