@@ -44,11 +44,14 @@ border-width: 4px;
   float: inline-start;
 } */
 
-#aboutme{
+p .text{
   font-size: 25px;
   color: blueviolet;
-  
-}.head{
+}
+.head{
   font-size: large;
   color: blue;
+}
+.about{
+  color: blueviolet;
 }
