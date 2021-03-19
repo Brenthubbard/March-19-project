@@ -12,3 +12,10 @@ div .container{
 ul{
   text-align: left;
 }
+div{
+  float:right;
+}
+img{
+  float: auto;
+  align-self:center;
+}
