@@ -5,7 +5,6 @@ h1 {
   border: 8px double;
 margin: 6px;
 padding: 35px;
-
 }
 h2{
 color: rgb(53, 67, 144);
@@ -15,55 +14,29 @@ border-color: black;
 margin: 6px;
 padding: 35px;
 }
-.cardheader{
-  color: blue;
-}
-ul{
-  text-align: center;
- 
-}
-
 div .row{
   align-content:center;
-
 }
 .head{
   font-size: large;
   color: blue;
-  text-align: center;
 }
-
-img {
- margin: ;
-  
-}
-
 div .box1{
 border-width: 4px;
   border-color: blue;
-   text-align: center;
 }
 .sidebar{
-  width 30%;
+  column-width: auto;
   float: center;
   background-color: lightcyan;
   text-align: center;
   color: blueviolet;
-}.
-ol .list-group {
-  text-align: center;
 }
-
-p .text{
-  font-size: 25px;
+.text{
+  font-size: 16px;
   color: blueviolet;
-  text-align: center;
 }
 .about{
   color: blueviolet;
   text-align: center;
-}
-
-.card{
-align-items: center;
 }
