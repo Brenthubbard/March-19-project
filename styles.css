@@ -3,5 +3,12 @@ h1 {
 
 }
 h2{
-color: green
+color: rgb(44, 204, 44)
+
+}
+div .container{
+  text-align: left;
+}
+ul{
+  text-align: left;
 }
