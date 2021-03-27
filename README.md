@@ -1,21 +1,41 @@
 
-My Project.
+# March-19-project
 
-This is my first Friday project for Epicodus ###This project was completed by myseld and only myself as per instructions from the Epicodus faculty.
+### This is the first submission for the C#, React course in March 2021 cohort
 
-Technology Used *HTML *CSS *Bootstrap *Images
+#### By: Brent Hubbard
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+## Technology Used
+* HTML
+* CSS
 
-Markdown
-This project is my first Friday project for Epicodus. It includes the following. My name, and image that represents me or of me. The list of projects I have completed thus far and a frame work to add to as I progress in my career. The links connect to github repositories for the corosponding projects. It also has my work experience and hobbies I enjoy.
 
-Set up and installation requirements: goto Brenthubbard.github.io/portfolio to view rendering of code. Once there click the links on the page to goto github repositories and view the code.
+This web application is designed to act as a bio for myself. I have added a picture and used all neccessary inputs required by the staff.
 
-Known bugs NO known bugs
 
-License MIT
+## Setup/Installiation Requirments
 
-*If you run into any problems please contact me so I can assist in the solution.
+* Click on the green download button. Clip on the clipboard to copy
+* Open your terminal and navigate to the preferred storage folder or file on your computer.
+* Type git clone in the terminal then paste the url you copied from the github page.
+* Change directory in to the cloned folde .
+* Type code . to open in your VSCode editor.
+* you can also drag cloned project folder into an editor if your choice if your platform doesn't support VSCode.
 
-Contact information: Brent Hubbard hubbardbrent@icloud.com
+
+## Known Bugs
+
+*Program has no bugs.
+
+## License
+
+Copyright 2021 Brent Hubbard
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+## Contact Information
+
+_hubbardbrent@icloud.com_
