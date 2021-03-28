@@ -25,7 +25,7 @@ This web application is designed to act as a bio for myself. I have added a pict
 
 ## Known Bugs
 
-*Program has no bugs.
+*Program has no known bugs.
 
 ## License
 
@@ -35,7 +35,9 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+#### Link to gh-pages to see deployed page
+https://brenthubbard.github.io/March-19-project/# 
 
-## Contact Information
 
+### Contact information
 _hubbardbrent@icloud.com_
