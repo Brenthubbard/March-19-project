@@ -25,7 +25,7 @@ This web application is designed to act as a bio for myself. I have added a pict
 
 ## Known Bugs
 
-*Program has no bugs.
+*Program has no known bugs.
 
 ## License
 
@@ -38,4 +38,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 #### Link to gh-pages to see deployed page
 https://brenthubbard.github.io/March-19-project/# 
 
+
+### Contact information
 _hubbardbrent@icloud.com_
